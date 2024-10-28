@@ -22,7 +22,6 @@
 ### Tabla Tiene
 ![Tabla Tiene](tiene.png)
 
-## 
 ## Ejemplos de DELETE
 ### Eliminar un cliente y todas sus compras
 - DELETE FROM cliente WHERE cliente_id=1;
